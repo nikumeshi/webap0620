@@ -1,0 +1,11 @@
+.wrapper{
+    margin: 80px;
+    padding: 1rem;
+    text-align: center;
+    background-color: darkgray;
+    border-radius: 10px;
+}
+
+table{
+    margin: auto;
+}
